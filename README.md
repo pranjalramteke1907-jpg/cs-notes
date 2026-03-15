@@ -1,1 +1,1 @@
-# cs-notes
+# cs-notes My personal cybersecurity learning notes. ## What's in here - Linux commands I've learned - Networking concepts (OSI, TCP/IP) - Security concepts (CIA Triad, OWASP) - Tool notes (Wireshark, Nmap, etc.) ## Learning path Currently following the TryHackMe Pre-Security path and building toward a cybersecurity internship. ## Platforms I'm using - [TryHackMe](https://tryhackme.com) - [Professor Messer](https://professormesser.com) - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
